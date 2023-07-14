@@ -127,20 +127,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* Small text */
-/* .small {
-  
-} */
-
-/* Body Medium */
-.body-medium {
-  color: var(--text);
-  text-align: center;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-}
 
 .pages {
   color: var(--dark);
@@ -172,8 +158,8 @@ body {
   cursor: pointer;
 }
 
-.button-text:hover,
-.button-text:focus {
+.button-portfolio:hover,
+.button-portfolio:focus {
   font-family: 'Roboto', sans-serif;
   background-color: var(--pressed-state);
   color: var(--white-background);
