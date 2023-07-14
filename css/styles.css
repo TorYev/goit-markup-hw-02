@@ -19,7 +19,6 @@ body {
   --modal-background: #FCFCFC;
 }
 
-/* Layout settings (headings, colors) */
 
 /* Top Page */
 
@@ -27,7 +26,6 @@ body {
   background: var(--white-background);
 }
 
-/* Reset link and list styles */
 
 .link {
   text-decoration: none;
