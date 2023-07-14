@@ -184,7 +184,7 @@ body {
   cursor: pointer;
 }
 
-.order {
+.orders {
   font-family: 'Roboto', sans-serif;
   color: var(--white-background);
   background-color: var(--primary_brand);
@@ -195,8 +195,8 @@ body {
   cursor: pointer;
 }
 
-.order:hover,
-.order:focus {
+.orders:hover,
+.orders:focus {
   font-family: 'Roboto', sans-serif;
   background-color: var(--pressed-state);
   color: var(--white-background);
