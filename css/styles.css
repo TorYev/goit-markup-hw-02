@@ -118,6 +118,7 @@ body {
 
 /* Body */
 .body {
+  color: #434455;
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 0.02em;
@@ -160,6 +161,7 @@ body {
 }
 
 .orders {
+  font-family: "Roboto", sans-serif;
   color: var(--white-background);
   background-color: var(--primary_brand);
   font-size: 16px;
