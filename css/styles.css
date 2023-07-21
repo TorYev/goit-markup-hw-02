@@ -88,7 +88,7 @@ body {
   background-color: var(--white-background);
 }
 
-.zagolovok {
+.header-top {
   color: var(--white-background);
   text-align: center;
   font-size: 56px;
@@ -98,7 +98,7 @@ body {
 }
 
 /* Header 2 */
-.sectwithimg {
+.header-mid {
   color: var(--dark);
   text-align: center;
   font-size: 36px;
@@ -108,7 +108,7 @@ body {
 }
 
 /* Header 3 */
-.pref {
+.header-end {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -202,4 +202,8 @@ body {
   line-height: 1.1666;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+}
+
+img{
+  display: block;
 }
